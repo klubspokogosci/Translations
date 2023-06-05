@@ -1,0 +1,7 @@
+<color=red>SCP Subjects</color>
+<color=#0019ba>Foundation Forces</color>
+<color=#00730f>Chaos Insurgency</color>
+<color=#ced902>Scientists</color>
+<color=orange>Class-D Personnel</color>
+<color=grey>Dead</color>
+Unclassified

@@ -1,0 +1,94 @@
+ZOOM <color=yellow>[amount]</color>
+<color=#d65302>ACCESS TIER</color> [tier]
+EXP [current] / [next]
+MAX TIER REACHED
+<color=red>NO CAMERA</color>
+GO TO: <color=yellow>[camera]</color> ([cost])
+NOT ENOUGH AUXILIARY POWER
+<color=#FFFF00>ETA</color>: <color=#d65302>[time]</color> seconds
+HIGHER TIER REQUIRED
+INVALID CAMERA
+DOOR ACCESS DENIED
+OPEN DOOR <color=#d65302>([cost])</color>
+CLOSE DOOR <color=#d65302>([cost])</color>
+LOCK DOOR <color=#d65302>([cost])</color>
+UNLOCK DOOR
+DOOR LOCK COOLDOWN
+<color=#0499cf>AUXILIARY POWER</color>
+You are being attacked!
+RELEASE ALL DOOR LOCKS <color=#d65302>([num] total)</color>
+OPEN FACILITY MAP
+CLOSE
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+ENTRANCE ZONE
+SURFACE ZONE
+BLACKOUT <color=#d65302>([cost])</color>
+BLACKOUT UNAVAILABLE FOR THIS ROOM
+LIMIT OF CONCURRENT BLACKOUTS REACHED
+ROOM BLACKOUT COOLDOWN
+SEND ELEVATOR <color=#d65302>([cost])</color>
+LOCKDOWN <color=#d65302>([cost])</color>
+LOCKDOWN COOLDOWN
+NO DOORS AVAILABLE FOR LOCKDOWN
+PING LOCATION <color=#d65302>([cost])</color>
+PING RATE LIMIT REACHED
+CAMERA SWITCH FAILED
+SIGNAL LOST
+RECONNECTING (<color=#FFFF00>ETA</color>: <color=#d65302>[time]s</color>)
+FIRE TESLA GATE <color=#d65302>([cost])</color>
+TESLA GATE ACTIVATION COOLDOWN
+<color=#d65302> $Access Tier [tier]$ </color>- UNLOCKED
+<color=#0499cf> $AUXILIARY POWER$ </color>limit increased to<color=#d65302> $[limit]$</color>.
+$BLACKOUT$ now available - press<color=#d65302> $[key]$ </color>to disable room lights.
+$BLACKOUT$ capacity increased to<color=#d65302> $[number]$ </color>rooms.
+$LOCKDOWN$ now available - press<color=#d65302> $[key]$ </color>to temporarily lock down all doors in a room.
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Admin Command
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#FF8E00>Class-D Personnel</color> termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#FFFF7C>Scientist</color> termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#5B6370>Guard</color> termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#003ECA>Nine-Tailed Fox</color> termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#008F1e>Chaos Insurgency</color> termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Human termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Witnessed termination by a teammate
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Teammate's pursuit assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Protection of teammate(s)
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Prevented use of <color=#003ECA>Micro H.I.D.</color>
+<color=#051cf0>CAMERA FEED ONLINE</color>
+ZONE-WIDE BLACKOUT <color=#d65302>([cost])</color>
+$ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
+ZONE-WIDE BLACKOUT COOLDOWN
+BLACKOUT ALREADY ACTIVE
+BLACKOUT UNAVAILABLE FOR THIS ZONE
+<color=#04d1a5>TOTAL LIFEFORMS</color>
+<color=#a86d39>TARGETS</color>
+<color=#EC2121>SCPs</color>
+<color=#d400d0>CIVILIAN</color>
+<color=#0019ba>MILITARY</color>
+USE SPEAKER
+ELEVATOR <color=#f00505>ACCESS DENIED</color>
+<color=#EC2121>SCP-079</color> has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
+Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
+Unlimited Access:You can manipulate numerous systems in the facility to assist the other <color=#d60202>SCPs</color>. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
+Deep Learning:Assisting in terminations, or performing helpful actions for the other <color=#d60202>SCPs</color> will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
+Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter.
+BREACH SCANNER now available — select team(s)/zone(s) in <color=yellow>Facility Map</color> to periodically scan for remaining survivors.
+AUX POWER REGEN SUSPENDED
+AUX POWER REGEN REDUCED ([precentage])
+Door Lock active
+Speaker in use
+Lockdown in progress
+BREACH SCANNER
+RETURN TO MAP
+Breach Scanner - <color=yellow>[cnt]</color> zone(s)
+SELECTED ZONES: <color=yellow>[cnt]</color>
+SELECT ZONES TO SCAN
+Scan result: $No stationary targets detected$.
+Retrying in [time] seconds...
+Scan result: $[role]$ detected at <color=yellow>‘$[camera_name]$’</color> <color=red>([zone])</color>.
+NEXT SCAN: <color=yellow>[time]</color> s
+Scanning...
+SCAN SEQUENCE SUSPENDED
+SELECT TEAMS TO DETECT
+Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
+Select at least one filter to continue!

@@ -1,0 +1,46 @@
+0~<color=#bcb4e4>Janitor</color> Keycard
+1~<color=#FFFF7C>Scientist</color> Keycard
+2~<color=#e4ac0b>Research Supervisor</color> Keycard
+3~<color=#147c7c>Zone Manager</color> Keycard
+4~<color=#5c6474>Guard</color> Keycard
+5~<color=#003ECA>MTF</color> <color=#9cc8dc>Private</color> Keycard
+6~<color=#bc8c84>Containment Engineer</color> Keycard
+7~<color=#003ECA>MTF</color> <color=#0096FF>Sergeant</color> Keycard
+8~<color=#003ECA>MTF Captain</color> Keycard
+9~<color=#bc0444>Facility Manager</color> Keycard
+10~<color=#075c01>Chaos Insurgency</color> Access Device
+11~<color=#1f211f>O5-level</color> Keycard
+12~<color=#437543>Radio</color>~[<color=#595959>☼</color>] Misc [<color=#595959>☼</color>]\n\nAllows you to communicate with others
+13~COM-15
+14~<color=#04b018>First Aid Kit</color>~[<color=#00FF00>✚</color>] <color=#057a01>Healing Item</color> [<color=#00FF00>✚</color>]\n\nHeals your injuries.
+15~Flashlight~Let there be light!
+16~<color=#037ffc>Micro H.I.D.</color>~[<color=yellow>⚡</color>] <color=#3f3d87>Experimental</color> [<color=yellow>⚡</color>] \n\nMobile high-intensity electrical discharge thrower.
+17~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04b018>500</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nThe Panacea.\nHeals 100% health and gives a regeneration effect.
+18~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nHarmfully increases motor skills.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~<color=#8f3c3c>Grenade</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\nHighly explosive grenade
+26~<color=#c9c9c9>Flashbang</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\nAllows you to blind enemies
+30~COM-18
+31~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#ff0000>018</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nSuperball able to bounce with extreme efficiency.
+32~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>268</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nGives a temporary invisibility effect\nCancelled during any interaction
+33~<color=#04b018>Adrenaline</color>~[<color=#6860c8>⛨</color>] <color=#057a01>Healing Item</color> [<color=#6860c8>⛨</color>]\n\nTemporarily increases endurance.
+34~<color=#04b018>Painkillers</color>~[<color=#00FF00>✚</color>] <color=#057a01>Healing Item</color> [<color=#00FF00>✚</color>]\n\nRelieve minor injuries.
+35~Coin~You're not sure why you'd want to carry this around...
+36~<color=#b5b2b0>Light</color> <color=#a15c18>Armor</color>
+37~<color=#6e6b69>Combat</color> <color=#a15c18>Armor</color>
+38~<color=#1f211f>Heavy</color> <color=#a15c18>Armor</color>
+39~.44 Revolver
+40~AK
+41~Shotgun
+42~Bag of Candies~A bag containing the following candies:
+43~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>2176</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nYour very own Ghostlight! Caution, very fragile...
+44~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04bade>244-A</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nAn ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
+45~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04bade>244-B</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nAn ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
+46~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>1853</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nImproves weapon manipulation skills at the cost of higher stamina usage.
+47~<color=#037ffc>3-X Particle Disruptor</color>
+48~COM-45
+49~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>1576</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nGives you the ability to speak with the dead
+50~<color=#037ffc>Jailbird</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\n[<color=#FFFF00>LMB</color] Deals: 50 DMG\n[<color=#FFFF00>RMB</color>] Deals: 250 DMG

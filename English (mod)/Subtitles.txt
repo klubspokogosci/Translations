@@ -1,0 +1,27 @@
+[<color=blue><b>⚚</b></color>] <color=blue> MTF Unit [designation] </color> | 
+[<color=red><b>⚠</b></color>] Awaiting re-containment of: <color=red> [count] SCP subjects.
+[<color=orange><b>⚠</b></color>] Awaiting re-containment of: <color=red>1 SCP subject.</color>
+Substantial threat to safety remains within the facility -- exercise caution.
+terminated | Termination cause unspecified.
+terminated | <color=red>SCP-[scp]</color>
+terminated | <color=blue>TESLA</color>
+terminated | <color=red>Alpha Warhead</color>
+contained | <color=yellow>Science Personnel</color>
+contained | <color=orange>Class-D Personnel</color>
+contained | <color=green>Chaos Insurgency</color>
+[<b>ⅰ</b>] <color=red>SCP-[scp]</color>
+contained | Containment unit unknown
+contained | <color=blue>Containment unit [designation]</color>
+| lost in Decontamination Sequence
+[<color=green><b>✔</b></color>] [current] | [max] generators activated.
+<split>[<color=yellow>⚠</color>] All generators have been successfully engaged.
+[<b><color=yellow>⚡</color></b>] Overcharge in 3... 2... 1...
+[<b><color=yellow>⚡</color></b>] Facility is back in operational mode.
+[<color=yellow><b>⚠</b></color>] <color=yellow>LCZ-ODP</color> will occur in <color=yellow>T-15</color> minutes.<split>All biological substances must be removed in order to avoid destruction.
+[<color=orange><b>⚠</b></color>] <color=orange>LCZ-ODP</color> in <color=orange>T-[time]</color> minutes.
+[<color=#ff4400><b>⚠</b></color>] <color=#ff4400>LCZ-ODP</color> in <color=#ff4400>T-1</color> minute.
+[<color=red><b>⚠</b></color>] <color=red>LCZ-ODP</color> in <color=red>T-30</color> seconds.<split>All checkpoint doors have been permanently opened.<split>Please evacuate immediately.
+[<color=red><b>⚠</b></color>] LCZ is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
+[<color=red><b>⚠</b></color>] ALPHA WARHEAD DETONATION ENGAGED<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN <color=orange>T-[time]</color> SECONDS
+[<color=green><b>ⅰ</b></color>] DETONATION CANCELLED.<split>RESTARTING SYSTEMS
+[<color=orange><b>ⅰ</b></color>] DETONATION RESUMED<split>ETA:<color=orange> T-[time]</color> SECONDS
