@@ -25,6 +25,6 @@
 
 - Emotki można brać z dowolnych stron do kopiowania emotek; My używaliśmy: [getemoji.com](https://getemoji.com/) oraz [copychar.cc](https://copychar.cc/)
 
-⚠️ **DISCLAIMER** ⚠️
+### ⚠️ **DISCLAIMER** ⚠️
 
 !!NIE WSZYSTKIE EMOTKI BĘDĄ WYŚWIETLAĆ SIĘ W GRZE, ABY SPRAWDZIĆ CZY EMOTKA JEST KOMPATYBILNA NAJLEPIEJ WKLEIĆ JĄ W KONSOLE W GRZE LUB TEXT-BASED REMOTE ADMIN!!
