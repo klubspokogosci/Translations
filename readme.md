@@ -25,7 +25,7 @@
 
 <hr>
 
-2. Otworzyć plik `manifest.json` oraz w rubryce "name" nazwać swoje tłumaczenie (Będzie to nazwa tłumaczenia widziana w ustawieniach) oraz zmienić "autors" na swój nick
+2. Otworzyć plik `manifest.json` oraz w rubryce "Name" nazwać swoje tłumaczenie (Będzie to nazwa tłumaczenia widziana w ustawieniach) oraz zmienić "Authors" na swój nick
 
 ![image](https://github.com/klubspokogosci/Translations/assets/70322874/3a81d6de-2148-4a1f-bed7-4a23e30c0c2b)
 
