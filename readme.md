@@ -8,13 +8,15 @@
 
 2. Rozpakować folder z tłumaczeniem do plików gry 📁 `Steam\steamapps\common\SCP Secret Laboratory\Translations`
 
-![image](https://github.com/klubspokogosci/Translations/assets/70322874/74d842f7-3861-4420-9a63-00b8bd91686d)
+
+![image](https://github.com/klubspokogosci/Translations/assets/70322874/daf8368d-9999-458e-ac88-c527327ac514)
 
 <hr>
 
 3. W ustawieniach od teraz będzie możliwe do wyboru tłumaczenie `english mod`
 
-![image](https://github.com/klubspokogosci/Translations/assets/70322874/ba9cf925-732e-4156-84b4-2fed555d401e)
+
+![image](https://github.com/klubspokogosci/Translations/assets/70322874/e9381442-a337-4f56-a5be-880beb89da9d)
 
 
 ## How to make custom translations
@@ -27,7 +29,7 @@
 
 2. Otworzyć plik `manifest.json` oraz w rubryce "Name" nazwać swoje tłumaczenie (Będzie to nazwa tłumaczenia widziana w ustawieniach) oraz zmienić "Authors" na swój nick
 
-![image](https://github.com/klubspokogosci/Translations/assets/70322874/3a81d6de-2148-4a1f-bed7-4a23e30c0c2b)
+![image](https://github.com/klubspokogosci/Translations/assets/70322874/7d6e6c36-c481-4b3b-812e-7e9f4c83d959)
 
 <hr>
 
@@ -36,7 +38,7 @@
 
 **PRZYKŁADOWA MODYFIKACJA PLIKU** `NewMainMenu` **CZYLI PLIKU ODPOWIEDZIALNEGO ZA MENU:**
 
-![image](https://github.com/klubspokogosci/Translations/assets/70322874/d7a844e4-36d2-4364-9003-bc4c0581029c)
+![image](https://github.com/klubspokogosci/Translations/assets/70322874/77eaaec6-cb16-4cfc-a060-5171a9ffedf0)
 
 
 ## Resources
@@ -67,8 +69,8 @@
 
 > DZIAŁAJĄCA
 
-![image](https://github.com/klubspokogosci/Translations/assets/70322874/938f0af2-8470-473b-a864-f7e16bafa313)
+![image](https://github.com/klubspokogosci/Translations/assets/70322874/f6cc2550-08a4-41f5-9414-7ffd19734a39)
 
 > NIE DZIAŁAJĄCA
 
-![image](https://github.com/klubspokogosci/Translations/assets/70322874/3450cf89-7a80-4538-b711-68ebad8e72f0)
+![image](https://github.com/klubspokogosci/Translations/assets/70322874/2a333431-9fbf-44fd-8c20-2973321eb230)
