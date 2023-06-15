@@ -23,4 +23,3 @@
 <color=#ff6500>SILO</color>
 
 <color=#ff6500>SILO</color>
-<color=#ff6500>☢️</color>

@@ -3,7 +3,7 @@
 [<color=yellow>💡</color>] <color=yellow>Scientists</color> and <color=orange>Class-D</color> must reach the surface to escape.
 [<color=yellow>💡</color>] The entrance zone has two gates, that provide access to the surface. You'll need a keycard to open them.
 [<color=yellow>💡</color>] Using an elevator is a quick and easy way to escape most <color=red>SCPs</color>.
-[<color=yellow>💡</color>] Escaped <color=orange>Class-D</color> join the <color=green>Chaos Insurgency</color>, while escaped <color=yellow>Scientists</color> become <color=blue>MTF</color>.
+[<color=yellow>💡</color>] Escaped <color=orange>Class-D</color> join the <color=green>Chaos Insurgency</color>, while escaped <color=yellow>Scientists</color> become <color=#0096FF>MTF</color>.
 [<color=yellow>💡</color>] Adrenaline can be used to instantly refresh your stamina and gives you advantage in combat.
 [<color=yellow>💡</color>] Radios have four range settings. The longer the range, the faster the battery drains.
 [<color=yellow>💡</color>] Mobile Task Force units and Chaos Insurgents arrive at opposite ends of the Surface Zone.
@@ -17,6 +17,7 @@
 [<color=yellow>💡</color>] Not only do suppressors muffle gunshots, they also hide muzzle flashes.
 [<color=yellow>💡</color>] Longer and heavier weapons are less accurate if fired while running.
 [<color=red>💡</color>] Translations made by: Michauu and Adasiek. HF playing with them!
+[<color=red>💡</color>] Current version of translations: <b>3.0.3</b>.
 [<color=yellow>💡</color>] Wearing body armor increases the number of items and ammo you can carry.
 [<color=yellow>💡</color>] Armor-piercing rounds (AP) perform best against armored targets.
 [<color=yellow>💡</color>] Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.

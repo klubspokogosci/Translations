@@ -5,3 +5,4 @@
 <color=#FF0000>ADMIN</color> IS USING\nTHE INTERCOM NOW
 YOU ARE <color=#808080>MUTED</color> BY <color=#FF0000>ADMIN</color>
 UNKNOWN
+<color=yellow>STARTING TRANSMISSION...</color>

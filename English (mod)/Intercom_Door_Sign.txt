@@ -1,15 +1,5 @@
 #INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
-<color=#8c9600>I</color>
-<color=#8c9600>IN</color>
-<color=#8c9600>INT</color>
-<color=#8c9600>INTE</color>
-<color=#8c9600>INTER</color>
-<color=#8c9600>INTERC</color>
-<color=#8c9600>INTERCO</color>
-<color=#8c9600>INTERCOM</color>
- 
-<color=#8c9600>INTERCOM</color>
-
-<color=#8c9600>BROAD-</color>
-<color=#8c9600>-CASTING</color>
-<color=#8c9600>CENTER</color>
+INTERCOM
+BROAD-
+-CASTING
+CENTER

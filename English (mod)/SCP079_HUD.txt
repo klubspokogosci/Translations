@@ -1,9 +1,9 @@
-ZOOM <color=yellow>[amount]</color>
+ZOOM <color=#126ede>[amount]</color>
 <color=#d65302>ACCESS TIER</color> [tier]
 EXP [current] / [next]
 MAX TIER REACHED
-<color=red>NO CAMERA</color>
-GO TO: <color=yellow>[camera]</color> ([cost])
+<color=#823a35>NO CAMERA</color>
+GO TO: <color=yellow>[camera]</color> <color=#d65302>([cost])</color>
 NOT ENOUGH AUXILIARY POWER
 <color=#FFFF00>ETA</color>: <color=#d65302>[time]</color> seconds
 HIGHER TIER REQUIRED
@@ -65,7 +65,7 @@ BLACKOUT UNAVAILABLE FOR THIS ZONE
 <color=#EC2121>SCPs</color>
 <color=#d400d0>CIVILIAN</color>
 <color=#0019ba>MILITARY</color>
-USE SPEAKER
+USE SPEAKER <color=#823a35>(SUSPEND AUX REGEN)</color>
 ELEVATOR <color=#f00505>ACCESS DENIED</color>
 <color=#EC2121>SCP-079</color> has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
 Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
@@ -73,8 +73,8 @@ Unlimited Access:You can manipulate numerous systems in the facility to assist t
 Deep Learning:Assisting in terminations, or performing helpful actions for the other <color=#d60202>SCPs</color> will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
 Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter.
 BREACH SCANNER now available — select team(s)/zone(s) in <color=yellow>Facility Map</color> to periodically scan for remaining survivors.
-AUX POWER REGEN SUSPENDED
-AUX POWER REGEN REDUCED ([precentage])
+AUX POWER REGEN <color=red>SUSPENDED</color>
+AUX POWER REGEN REDUCED TO: <color=yellow>([precentage])</color>
 Door Lock active
 Speaker in use
 Lockdown in progress
@@ -82,13 +82,13 @@ BREACH SCANNER
 RETURN TO MAP
 Breach Scanner - <color=yellow>[cnt]</color> zone(s)
 SELECTED ZONES: <color=yellow>[cnt]</color>
-SELECT ZONES TO SCAN
+SELECTED ZONES: <color=yellow>0</color>\n <size=75%><color=orange>[SELECT AT LEAST ONE ZONE TO START SCAN]</color></size>
 Scan result: $No stationary targets detected$.
-Retrying in [time] seconds...
-Scan result: $[role]$ detected at <color=yellow>‘$[camera_name]$’</color> <color=red>([zone])</color>.
+Retrying in <color=yellow>[time]</color> seconds...
+Scan result: $[role]$ detected at <color=yellow>‘$[camera_name]$’</color> <color=#823a35>([zone])</color>.
 NEXT SCAN: <color=yellow>[time]</color> s
-Scanning...
-SCAN SEQUENCE SUSPENDED
+<color=#0ba11f>Scanning...</color>
+<color=red>SCAN SUSPENDED</color>\n\n\n\n\n\n<size=65%>[<color=yellow>💡</color>] <b>TIP</b>\n\n</size><color=orange><size=55%>[MAKE SURE THAT AT LEAST ONE FILTER IS SELECTED]</size>\n\n<size=55%>[MAKE SURE THAT AT LEAST ONE ZONE IS SELECTED]</color>
 SELECT TEAMS TO DETECT
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
-Select at least one filter to continue!
+<size=75%><color=orange>[SELECT AT LEAST ONE FILTER TO START SCAN]</color></size>

@@ -1,17 +1,17 @@
-[<color=blue><b>⚚</b></color>] <color=blue> MTF Unit [designation] </color> | 
+[<color=#0096FF><b>⚚</b></color>] <color=#0096FF> MTF Unit [designation] </color> | 
 [<color=red><b>⚠</b></color>] Awaiting re-containment of: <color=red> [count] SCP subjects.
 [<color=orange><b>⚠</b></color>] Awaiting re-containment of: <color=red>1 SCP subject.</color>
 Substantial threat to safety remains within the facility -- exercise caution.
 terminated | Termination cause unspecified.
 terminated | <color=red>SCP-[scp]</color>
-terminated | <color=blue>TESLA</color>
+terminated | <color=yellow>TESLA</color>
 terminated | <color=red>Alpha Warhead</color>
 contained | <color=yellow>Science Personnel</color>
 contained | <color=orange>Class-D Personnel</color>
 contained | <color=green>Chaos Insurgency</color>
 [<b>ⅰ</b>] <color=red>SCP-[scp]</color>
 contained | Containment unit unknown
-contained | <color=blue>Containment unit [designation]</color>
+contained | <color=#0096FF>Containment unit [designation]</color>
 | lost in Decontamination Sequence
 [<color=green><b>✔</b></color>] [current] | [max] generators activated.
 <split>[<color=yellow>⚠</color>] All generators have been successfully engaged.
