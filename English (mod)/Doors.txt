@@ -2,8 +2,8 @@
 <color=#07A2FF><size=90>●</size></color>
 <size=90><color=#cc7602>♺</color></size>
 <color=#520101><size=90>●</color></size>
-<size=40><color=#520101>⛔</color></size>
-<size=40><color=#520101>❌</color></size>
+<size=40><color=#f00505>⛔</color></size>
+<size=40><color=#f00505>❌</color></size>
 <size=40><color=green>✅</color></size>
 <size=40><color=#07A2FF>💳</color></size>
 <size=40><color=#d4ca00>🕗</color></size>

@@ -63,7 +63,7 @@ This change will require a reload.\nReload the menu now?
 Are you sure you want to quit?
 Screen Resolution
 Hide IP
-Welcome back, {username}
+Hi {username}!\n Translations made by KSG
 [©️] Credits
 <b>Connection status: <color=yellow>Connecting...</color></b>
 <b>Connection status: <color=yellow>Connecting...</color></b>

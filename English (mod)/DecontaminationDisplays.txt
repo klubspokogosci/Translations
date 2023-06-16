@@ -1,7 +1,7 @@
-DECONTAMINATION PROCESS BEGINS IN
-<color=#fc0303>PLEASE EXIT THE AREA</color>
-<color=#fc0303>!  PLEASE EVACUATE  !</color>
-threat analysis in progress
-PREPARING SECURITY SYSTEMS
-systems ready to commence
-initializing procedure p-b-3
+<b>DECONTAMINATION BEGINS IN</b>
+<color=#f0ec05>⚠️ PLEASE EXIT THE AREA ⚠️</color>
+<color=#ff0303>⚠️ PLEASE EVACUATE ⚠️</color>
+<b>threat analysis in progress</b>
+<b>PREPARING SECURITY SYSTEMS</b>
+<b>systems ready to commence</b>
+<b>initializing procedure p-b-3</b>
