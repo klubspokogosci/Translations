@@ -1,0 +1,43 @@
+name: Zgłoszenie błędu
+description: W tłumaczeniach jest błąd opisany poniżej
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Raporty o błędach powinny być używane wyłącznie do zgłaszania problemów z działaniem tłumaczeń.
+
+  - type: textarea
+    attributes:
+      label: Opis błędu
+      description: Prosimy o jasny i zwięzły opis problemu.
+    validations:
+      required: true
+
+  - type: input
+    id: translation-version
+    attributes:
+      label: Wersja tłumaczeń
+      description: Numer wersji tłumaczeń (najnowsze nie jest poprawną wersją)
+      placeholder: 3.0.0
+    validations:
+      required: true
+
+  - type: input
+    id: game-version
+    attributes:
+      label: Wersja gry
+      description: Numer wersji gry (najnowsze nie jest poprawną wersją)
+      placeholder: 13.0.0
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Czy jest już istniejący post z problemem?
+      description: Prosimy o [sprawdzenie tutaj](https://github.com/klubspokogosci/translations) czy dla Twojego problemu istnieje już post.
+      options:
+        - label: Przeszukałem istniejące zgłoszenia przed otwarciem tego tematu.
+          required: true
+        - label: Podałem wszystkie istotne szczegóły, w tym konkretną wersję tłumaczeń oraz gry.
+          required: true
