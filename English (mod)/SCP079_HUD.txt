@@ -44,13 +44,9 @@ $BLACKOUT$ now available - press<color=#d65302> $[key]$ </color>to disable room 
 $BLACKOUT$ capacity increased to<color=#d65302> $[number]$ </color>rooms.
 $LOCKDOWN$ now available - press<color=#d65302> $[key]$ </color>to temporarily lock down all doors in a room.
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Admin Command
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#FF8E00>Class-D Personnel</color> termination assist
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#FFFF7C>Scientist</color> termination assist
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#5B6370>Guard</color> termination assist
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#003ECA>Nine-Tailed Fox</color> termination assist
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - <color=#008F1e>Chaos Insurgency</color> termination assist
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Human termination assist
-[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Witnessed termination by a teammate
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - [role] termination assist
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - [role] direct termination
+[<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Witnessed termination of [role] by a teammate
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Teammate's pursuit assist
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Protection of teammate(s)
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Prevented use of <color=#003ECA>Micro H.I.D.</color>

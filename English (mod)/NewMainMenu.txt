@@ -16,11 +16,11 @@ Refresh
 Hide Empty Games
 Hide Full Games
 No Whitelist
-<color=blue>[❏]</color> Video
-<color=purple>[♫]</color> Audio
-<color=#53f502>[<size=20%>ⓌⓈⒶⒹ</size>]</color> Controls
-<color=orange>[✇]</color> Gameplay
-<color=grey>[☼]</color> Others
+Video
+Audio
+Controls
+Gameplay
+Others
 Window Mode
 Exclusive Fullscreen
 Borderless Window
@@ -63,7 +63,7 @@ This change will require a reload.\nReload the menu now?
 Are you sure you want to quit?
 Screen Resolution
 Hide IP
-Hi {username}!\n Translations made by KSG
+Hi {username}!
 [©️] Credits
 <b>Connection status: <color=yellow>Connecting...</color></b>
 <b>Connection status: <color=yellow>Connecting...</color></b>
