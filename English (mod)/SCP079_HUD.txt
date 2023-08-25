@@ -2,7 +2,7 @@ ZOOM <color=#126ede>[amount]</color>
 <color=#d65302>ACCESS TIER</color> [tier]
 EXP [current] / [next]
 MAX TIER REACHED
-<color=#823a35>NO CAMERA</color>
+<color=#EC2121>NO CAMERA</color>
 GO TO: <color=yellow>[camera]</color> <color=#d65302>([cost])</color>
 NOT ENOUGH AUXILIARY POWER
 <color=#FFFF00>ETA</color>: <color=#d65302>[time]</color> seconds
@@ -16,7 +16,7 @@ UNLOCK DOOR
 DOOR LOCK COOLDOWN
 <color=#0499cf>AUXILIARY POWER</color>
 You are being attacked!
-RELEASE ALL DOOR LOCKS <color=#d65302>([num] total)</color>
+RELEASE <color=#d65302>ALL</color> DOOR LOCKS
 OPEN FACILITY MAP
 CLOSE
 LIGHT CONTAINMENT ZONE
@@ -50,7 +50,7 @@ $LOCKDOWN$ now available - press<color=#d65302> $[key]$ </color>to temporarily l
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Teammate's pursuit assist
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Protection of teammate(s)
 [<color=#00FF00>+</color>] [amount] <color=#008000>EXP</color> - Prevented use of <color=#003ECA>Micro H.I.D.</color>
-<color=#051cf0>CAMERA FEED ONLINE</color>
+<color=#EC2121>RATELIMIT REACHED</color>
 ZONE-WIDE BLACKOUT <color=#d65302>([cost])</color>
 $ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
 ZONE-WIDE BLACKOUT COOLDOWN
@@ -61,7 +61,7 @@ BLACKOUT UNAVAILABLE FOR THIS ZONE
 <color=#EC2121>SCPs</color>
 <color=#d400d0>CIVILIAN</color>
 <color=#0019ba>MILITARY</color>
-USE SPEAKER <color=#823a35>(SUSPEND AUX REGEN)</color>
+USE SPEAKER <color=#823a35>(REDUCE AUX REGEN 50%)</color>
 ELEVATOR <color=#f00505>ACCESS DENIED</color>
 <color=#EC2121>SCP-079</color> has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
 Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
