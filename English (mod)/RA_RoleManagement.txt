@@ -10,7 +10,7 @@ SCP-079
 Chaos Conscript
 SCP-096
 SCP-049-2
-NTF Sergeant
+NTF Operative
 NTF Captain
 NTF Private
 Tutorial

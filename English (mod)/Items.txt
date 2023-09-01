@@ -5,7 +5,7 @@
 4~<color=#5c6474>Guard</color> Keycard
 5~<color=#003ECA>MTF</color> <color=#9cc8dc>Private</color> Keycard
 6~<color=#bc8c84>Containment Engineer</color> Keycard
-7~<color=#003ECA>MTF</color> <color=#0096FF>Sergeant</color> Keycard
+7~<color=#003ECA>MTF</color> <color=#0096FF>Operative</color> Keycard
 8~<color=#003ECA>MTF Captain</color> Keycard
 9~<color=#bc0444>Facility Manager</color> Keycard
 10~<color=#075c01>Chaos Insurgency</color> Access Device
@@ -43,4 +43,5 @@
 47~<color=#037ffc>3-X Particle Disruptor</color>
 48~COM-45
 49~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>1576</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nGives you the ability to speak with the dead
-50~<color=#037ffc>Jailbird</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\n[<color=#FFFF00>LMB</color] Deals: 50 DMG\n[<color=#FFFF00>RMB</color>] Deals: 250 DMG
+50~<color=#037ffc>Jailbird</color>~[<color=yellow>⚡</color>] <color=#3f3d87>Experimental</color> [<color=yellow>⚡</color>] \n\n[<color=#FFFF00>LMB</color>] Deals: 50 DMG\n[<color=#FFFF00>RMB</color>] Deals: 250 DMG
+51~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>702?</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Item</color> [<color=#FFA500>⚠</color>]\n\nDecreasess your speed but gives regeneration effect
