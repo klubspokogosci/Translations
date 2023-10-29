@@ -15,7 +15,10 @@ Epsilon-11 Private
 Tutorial 
 Facility Guard 
 SCP-939 
-SCP-939 
+-
 Rifleman 
 Marauder 
 Repressor 
+Overwatch
+Filmmaker
+SCP-3114

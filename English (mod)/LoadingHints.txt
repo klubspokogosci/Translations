@@ -17,7 +17,7 @@
 [<color=yellow>💡</color>] Not only do suppressors muffle gunshots, they also hide muzzle flashes.
 [<color=yellow>💡</color>] Longer and heavier weapons are less accurate if fired while running.
 [<color=red>💡</color>] Translations made by: Michauu and Adasiek. HF playing with them!
-[<color=red>💡</color>] Current version of translations: <b>3.2.0</b>.
+[<color=red>💡</color>] Current version of translations: <b>3.3.3</b>.
 [<color=yellow>💡</color>] Wearing body armor increases the number of items and ammo you can carry.
 [<color=yellow>💡</color>] Armor-piercing rounds (AP) perform best against armored targets.
 [<color=yellow>💡</color>] Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
@@ -28,7 +28,7 @@
 [<color=yellow>💡</color>] The <color=#037ffc>Micro H.I.D.</color> can kill most <color=red>SCPs</color> very quickly but has a limited power supply. Use it wisely!
 [<color=yellow>💡</color>] The <color=#037ffc>Micro H.I.D.</color> requires about <color=yellow>5</color> seconds of charging before it can fire.
 [<color=yellow>💡</color>] Holding right mouse button will keep the <color=#037ffc>Micro H.I.D.</color> at its ready-to-fire state; slowly draining energy.
-[<color=yellow>💡</color>] The<color=#037ffc>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
+[<color=yellow>💡</color>] The <color=#037ffc>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
 [<color=yellow>💡</color>] Charging the <color=#037ffc>Micro H.I.D.</color> produces an intimidating sound which is enough to ruin your enemies' plans.
 [<color=yellow>💡</color>] A bottle of <color=yellow>SCP-207</color> not only increases your movement speed, but will partially restore your health as well.
 [<color=yellow>💡</color>] Up to four <color=yellow>SCP-207</color> bottles can be drunk, allowing for a significant multiplier to your speed.
@@ -49,7 +49,6 @@
 [<color=yellow>💡</color>] <color=red>SCP-173</color> can kill stealthily from behind.
 [<color=yellow>💡</color>] <color=red>SCP-173</color> can create a puddle that slows down humans that walk through it — creating quick and efficient area-denial.
 [<color=yellow>💡</color>] <color=red>SCP-106</color> is resistant to bullets but not explosives and electricity.
-[<color=yellow>💡</color>] <color=red>SCP-106</color> can quickly be recontained using the femur breaker that is found in its containment chamber.
 [<color=yellow>💡</color>] <color=red>SCP-106</color> can walk through doors and glass windows.
 [<color=yellow>💡</color>] <color=red>SCP-096</color> is at its weakest when it has just begun to calm down.
 [<color=yellow>💡</color>] <color=red>SCP-096</color> can charge forward while enraged – breaking doors and killing targets.
@@ -63,3 +62,8 @@
 [<color=yellow>💡</color>] <color=red>SCP-049</color> can only reanimate corpses if they’re fresh.
 [<color=yellow>💡</color>] <color=red>SCP-049-2</color> is vulnerable to headshots.
 [<color=yellow>💡</color>] <color=red>SCP-049-2s</color> make good scouts and are dangerous in large numbers.
+[<color=yellow>💡</color>] Most playable <color=red>SCP</color> instances have a secondary health bar called <color=#9b54ff>‘Hume Shield’</color>, which absorbs damage and regenerates over time.
+[<color=yellow>💡</color>] <color=red>SCP-049</color> can give a small shield to <color=red>SCP-049-2</color> instances who are nearby.
+[<color=yellow>💡</color>] Cardiac arrest drains your health rapidly. You’ll need medical supplies if you want to survive it.
+[<color=yellow>💡</color>] While in Stalk, <color=red>SCP-106</color> can see humans in a short radius around him.
+[<color=yellow>💡</color>] <color=red>SCP-079</color> unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
