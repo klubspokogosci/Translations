@@ -1,10 +1,10 @@
-<size=90><color=green>○</color></size>
-<color=#07A2FF><size=90>●</size></color>
-<size=90><color=#cc7602>♺</color></size>
-<color=#520101><size=90>●</color></size>
-<size=40><color=#f00505>⛔</color></size>
+<color=green><size=35>OPEN</size></color>
+<color=#07A2FF><size=30>CLOSED</size></color>
+<color=orange><size=50>┃⇆┃</size>\n<size=30>MOVING</size></color>
+<color=red><size=50>-❌-</size></color>
+<size=40><color=yellow>⚠</color></size>
 <size=40><color=#f00505>❌</color></size>
 <size=40><color=green>✅</color></size>
 <size=40><color=#07A2FF>💳</color></size>
-<size=40><color=#d4ca00>🕗</color></size>
-<size=40><color=#cc7602>♺</color>
+<color=orange>PLEASE PASS</color>
+<color=orange>CLOSING</color>

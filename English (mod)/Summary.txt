@@ -1,4 +1,4 @@
-The round has finished!
+<b>The round has finished!</b>
 [ SCPS WIN ]
 [ FOUNDATION WINS ]
 [ INSURGENCY WINS ]
